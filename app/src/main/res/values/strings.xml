@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Firebase-login</string>
+    <string name="app_register">Firebase-register</string>
+    <string name="app_user_dashboard">User Dashboard</string>
+    <string name="app_admin_dashboard">Admin Dashboard</string>
+
+    <!-- Login Strings -->
+    <string name="username_placeholder">Enter your email</string>
+    <string name="password_placeholder">Enter your password</string>
+    <string name="login_text">Login</string>
+    <string name="not_user_text">Not yet registered? Sign up</string>
+
+    <!-- Register Strings -->
+    <string name="passwordre_placeholder">Confirm your password</string>
+    <string name="register">Register</string>
+    <string name="have_account">Already have account? Login</string>
+</resources>
